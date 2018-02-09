@@ -17,9 +17,6 @@ For a more indepth look at the rules here is the Designer Diary by the publisher
 ### Basic usage
 `python wagroller.py 5` where 5 is the nember of dice in your pool. It defaults to a "difficulty number" of 3 which is  what the designers have set as the base test.
 
-## Sample Outcome
-
-
 ### Override Difficulty Number
 This can be overridden by using the `-d` command with the new difficulty class, eg `python wagroller.py 5 -d 4`
 
