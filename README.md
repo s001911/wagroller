@@ -35,7 +35,7 @@ This can be done by appending `-r` to any command. The dice which is used to det
     Passed: True
 
 In this example we've used a pool of 5 dice passed the `-r` flag to show the rolls.
-We can see that the first roll, `3*` was used to test for Wrath or Glory resulting in `Neither` as the first outcome. There is 1 "Complication" due to 1 being rolled as the 3rd roll. 1 "Icon" from the last roll of 5, 2 "Exalted Icons" from both 6's giving us a total of 5 "Icons" resulting in a pass as 5 is greater than our default difficulty number of 3.
+We can see that the first roll, `3*` was used to test for Wrath or Glory resulting in `Neither` as the first outcome. There is 1 "Complication" due to 1 being rolled as the 3rd roll. 1 "Icon" from the last roll of 5. There is 2 "Exalted Icons" from both 6's giving us a total of 5 "Icons" resulting in a pass as 5 is greater than our default difficulty number of 3.
 
 #### Disclaimer
 All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
